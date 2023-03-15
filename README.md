@@ -7,6 +7,6 @@ Aqui se ha desarrollado una API REST en Java utilizando Spring Framework y proye
 https://oldowlbank.up.railway.app/web/login.html
 
 Cuenta de prueba:
-  - email: melba@minduh.com
+  - email: melba@mindhub.com
   - password: cliente
   
